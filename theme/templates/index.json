@@ -1,0 +1,9 @@
+{
+    "sections": {
+        "empty": {
+            "type": "empty",
+            "settings": {}
+        }
+    },
+    "order": ["empty"]
+}
